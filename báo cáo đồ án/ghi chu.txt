@@ -1,0 +1,232 @@
+<!-- Các thông s? k? thu?t khác -->
+    <tr>
+    	<td colspan="2"><h2><font color="#021542">Các thông s? k? thu?t khác</font></h2></td>
+    </tr>
+    <!-- Lo?i xe -->
+    <tr>
+		<td>Lo?i xe :</td>
+		<td>
+        <select name="typeCar" class="par">
+        	<option value=""></option>
+			<?php
+                $qr1=mysql_query("SELECT * FROM parameter WHERE sort=1 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro1=mysql_fetch_array($qr1))
+                {
+                    $qr10=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro1['id']." ORDER BY id ASC",$link);
+                    while($ro10=mysql_fetch_array($qr10))
+                    {
+                        echo '<option value="'.$ro10['id'].'">'.$ro10['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- B? ngang l?p -->
+    <tr>
+		<td>B? ngang l?p (mm) :</td>
+		<td>
+        <?php
+       		$qr2=mysql_query("SELECT * FROM parameter WHERE sort=2 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro2=mysql_fetch_array($qr2))
+            {	
+				echo '<input type="text" name="widthTire" class="par" value=""/>';
+				$_SESSION['widthTireId']=$ro2['id'];
+			}
+		?>
+        </td>
+    </tr>
+    <!---->
+    <!-- T? l? b? dày / chi?u r?ng l?p (%) -->
+    <tr>
+		<td>T? l? b? dày / chi?u r?ng l?p (%) :</td>
+		<td>
+        <?php
+       		$qr3=mysql_query("SELECT * FROM parameter WHERE sort=3 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro3=mysql_fetch_array($qr3))
+            {		 
+				echo '<input type="text" name="ratio" class="par"/>';
+			}
+		?>
+        </td>
+   	</tr>
+    <!---->
+    <!-- C?u t?o l?p -->
+    <tr>
+		<td>C?u t?o l?p :</td>
+		<td>
+        <select name="radial" class="par" style="width: auto !important">
+        	<option value=""></option>
+			<?php
+                $qr4=mysql_query("SELECT * FROM parameter WHERE sort=4 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro4=mysql_fetch_array($qr4))
+                {
+                    $qr40=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro4['id']." ORDER BY id ASC",$link);
+                    while($ro40=mysql_fetch_array($qr40))
+                    {
+                        echo '<option value="'.$ro40['id'].'">'.$ro40['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- Ðu?ng kính bánh (inch) -->
+    <tr>
+		<td>Ðu?ng kính bánh (inch) :</td>
+		<td>
+        <?php
+       		$qr5=mysql_query("SELECT * FROM parameter WHERE sort=5 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro5=mysql_fetch_array($qr5))
+            {		 
+				echo '<input type="text" name="diameter" class="par"/>';
+			}
+		?>
+        </td>
+   	</tr>
+    <!-- -->
+    <!-- Ch? s? tr?ng t?i (kg) ho?c pound (cân Anh) -->
+    <tr>
+    	<td>Ch? s? tr?ng t?i (kg) ho?c pound (cân Anh) :</td>
+		<td>
+        <?php
+       		$qr6=mysql_query("SELECT * FROM parameter WHERE sort=6 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro6=mysql_fetch_array($qr6))
+            {		 
+				echo '<input type="text" name="loadIndex" class="par"/>';
+			}
+		?>
+        </td>
+    </tr>
+    <!---->
+    <!-- Ch? s? t?c d? (km/h) -->
+    <tr>
+		<td>Ch? s? t?c d? (km/h) :</td>
+		<td>
+        <select name="speedSym" class="par">
+        	<option value=""></option>
+			<?php
+                $qr7=mysql_query("SELECT * FROM parameter WHERE sort=7 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro7=mysql_fetch_array($qr7))
+                {
+                    $qr70=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro7['id']." ORDER BY id ASC",$link);
+                    while($ro70=mysql_fetch_array($qr70))
+                    {
+                        echo '<option value="'.$ro70['id'].'">'.$ro70['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- Ð? kháng mòn c?a m?t l?p (Treadwear) -->
+    <tr>
+		<td>Ð? kháng mòn c?a m?t l?p (Treadwear) :</td>
+		<td>
+        <select name="treadwear" class="par">
+        	<option value=""></option>
+			<?php
+                $qr8=mysql_query("SELECT * FROM parameter WHERE sort=8 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro8=mysql_fetch_array($qr8))
+                {
+                    $qr80=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro8['id']." ORDER BY id ASC",$link);
+                    while($ro80=mysql_fetch_array($qr80))
+                    {
+                        echo '<option value="'.$ro80['id'].'">'.$ro80['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- L?c bám kéo (traction) -->
+    <tr>
+		<td>L?c bám kéo (traction) :</td>
+		<td>
+        <select name="traction" class="par">
+        	<option value=""></option>
+			<?php
+                $qr9=mysql_query("SELECT * FROM parameter WHERE sort=8 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro9=mysql_fetch_array($qr9))
+                {
+                    $qr90=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro9['id']." ORDER BY id ASC",$link);
+                    while($ro90=mysql_fetch_array($qr90))
+                    {
+                        echo '<option value="'.$ro90['id'].'">'.$ro90['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- Nhi?t d? (temperature) -->
+    <tr>
+		<td>Nhi?t d? (temperature) :</td>
+		<td>
+        <select name="temperature" class="par">
+        	<option value=""></option>
+			<?php
+                $qr10=mysql_query("SELECT * FROM parameter WHERE sort=8 AND typeNode=2 AND state=1 ORDER BY id ASC",$link);
+                while($ro10=mysql_fetch_array($qr10))
+                {
+                    $qr100=mysql_query("SELECT * FROM parameter WHERE ParentID=".$ro10['id']." ORDER BY id ASC",$link);
+                    while($ro100=mysql_fetch_array($qr100))
+                    {
+                        echo '<option value="'.$ro100['id'].'">'.$ro100['title'].'</option>';		
+                    }
+                }
+            ?>
+        </select>
+		</td>
+    </tr>
+    <!---->
+    <!-- M + S (yêu c?u t?i thi?u khi di trên m?t du?ng l?y l?i ho?c ph? tuy?t) -->
+    <tr>
+    	<td>M + S (yêu c?u t?i thi?u khi di trên m?t du?ng l?y l?i ho?c ph? tuy?t) :</td>
+		<td>
+        <?php
+       		$qr11=mysql_query("SELECT * FROM parameter WHERE sort=11 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro11=mysql_fetch_array($qr11))
+            {		 
+				echo '<input type="text" name="mS" class="par"/>';
+			}
+		?>
+        </td>
+    </tr>
+    <!---->
+    <!-- Maximum load (t?i tr?ng t?i da c?a l?p xe - pound ho?c kg) -->
+    <tr>
+    	<td>Maximum load (t?i tr?ng t?i da c?a l?p xe - pound ho?c kg) :</td>
+		<td>
+        <?php
+       		$qr12=mysql_query("SELECT * FROM parameter WHERE sort=12 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro12=mysql_fetch_array($qr12))
+            {		 
+				echo '<input type="text" name="maximumLoad" class="par"/>';
+			}
+		?>
+        </td>
+    </tr>
+    <!---->
+    <!-- Maximum Inflation Pressure (Áp l?c hoi t?i da) -->
+    <tr>
+    	<td>Maximum Inflation Pressure (Áp l?c hoi t?i da) :</td>
+		<td>
+        <?php
+       		$qr13=mysql_query("SELECT * FROM parameter WHERE sort=13 AND typeNode=1 AND state=1 ORDER BY id ASC",$link);			
+			while($ro13=mysql_fetch_array($qr13))
+            {		 
+				echo '<input type="text" name="maximumPress" class="par"/>';
+			}
+		?>
+        </td>
+    </tr>
+    <!---->
+
+$query1=mysql_query("INSERT INTO products_parameter(proid,parid) VALUES(".$_GET['proid'].",".$_POST['typeCar'].")",$link);
+	$query2=mysql_query("INSERT INTO products_parameter(proid,parid,others) VALUES(".$_GET['proid'].",".$_SESSION['widthTireId'].",".$_POST['widthTire'].")",$link);

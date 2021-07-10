@@ -1,0 +1,231 @@
+<div class="heading">
+<div class="title">
+Hết giờ !!!
+</div>
+<div class="icon_TimeOut">
+</div>
+</div>
+<div class="content">
+<div class="uleft" style="text-align: center;">
+<ul>
+<b>Thời gian làm bài của bạn đã hết.<br />
+Bấm vào <?php
+                $sql = "SELECT * FROM categories WHERE control = 'test'";
+                $result = mysql_query($sql, $link);
+                while($row = mysql_fetch_array($result))
+                {
+                    echo '<a href="view_testcatlist.php?testid='.$row['id'].'">đây</a>';
+                }
+                ?> để quay trở lại danh mục các bài test trước đó.</b>
+</ul>
+</div>
+</div>
+<?php
+//R1
+	if(isset($_SESSION['answerR11']))
+	{
+		unset($_SESSION['answerR11']);
+	}
+	if(isset($_SESSION['answerR12']))
+	{
+		unset($_SESSION['answerR12']);
+	}
+	if(isset($_SESSION['answerR13']))
+	{
+		unset($_SESSION['answerR13']);
+	}
+	if(isset($_SESSION['answerR14']))
+	{
+		unset($_SESSION['answerR14']);
+	}
+	if(isset($_SESSION['answerR15']))
+	{
+		unset($_SESSION['answerR15']);
+	}
+	if(isset($_SESSION['answerR16']))
+	{
+		unset($_SESSION['answerR16']);
+	}
+	if(isset($_SESSION['answerR17']))
+	{
+		unset($_SESSION['answerR17']);
+	}
+	if(isset($_SESSION['answerR18']))
+	{
+		unset($_SESSION['answerR18']);
+	}
+	if(isset($_SESSION['answerR19']))
+	{
+		unset($_SESSION['answerR19']);
+	}
+	if(isset($_SESSION['answerR110']))
+	{
+		unset($_SESSION['answerR110']);
+	}
+//R2	
+	if(isset($_SESSION['answerR21']))
+	{
+		unset($_SESSION['answerR21']);
+	}
+	if(isset($_SESSION['answerR22']))
+	{
+		unset($_SESSION['answerR22']);
+	}
+	if(isset($_SESSION['answerR23']))
+	{
+		unset($_SESSION['answerR23']);
+	}
+	if(isset($_SESSION['answerR24']))
+	{
+		unset($_SESSION['answerR24']);
+	}
+	if(isset($_SESSION['answerR25']))
+	{
+		unset($_SESSION['answerR25']);
+	}
+//R3
+	if(isset($_SESSION['answer1R3']))
+	{
+		unset($_SESSION['answer1R3']);
+	}
+	if(isset($_SESSION['answer2R3']))
+	{
+		unset($_SESSION['answer2R3']);
+	}
+	if(isset($_SESSION['answer3R3']))
+	{
+		unset($_SESSION['answer3R3']);
+	}
+	if(isset($_SESSION['answer4R3']))
+	{
+		unset($_SESSION['answer4R3']);
+	}
+	if(isset($_SESSION['answer5R3']))
+	{
+		unset($_SESSION['answer5R3']);
+	}
+//R4
+	if(isset($_SESSION['answer1R4']))
+	{
+		unset($_SESSION['answer1R4']);
+	}
+	if(isset($_SESSION['answer2R4']))
+	{
+		unset($_SESSION['answer2R4']);
+	}
+	if(isset($_SESSION['answer3R4']))
+	{
+		unset($_SESSION['answer3R4']);
+	}
+	if(isset($_SESSION['answer4R4']))
+	{
+		unset($_SESSION['answer4R4']);
+	}
+	if(isset($_SESSION['answer5R4']))
+	{
+		unset($_SESSION['answer5R4']);
+	}
+	if(isset($_SESSION['answer6R4']))
+	{
+		unset($_SESSION['answer6R4']);
+	}
+	if(isset($_SESSION['answer7R4']))
+	{
+		unset($_SESSION['answer7R4']);
+	}
+	if(isset($_SESSION['answer8R4']))
+	{
+		unset($_SESSION['answer8R4']);
+	}
+	if(isset($_SESSION['answer9R4']))
+	{
+		unset($_SESSION['answer9R4']);
+	}
+	if(isset($_SESSION['answer10R4']))
+	{
+		unset($_SESSION['answer10R4']);
+	}
+//W1
+if(isset($_SESSION['answerW11']))
+	{
+		unset($_SESSION['answerW11']);
+	}
+	if(isset($_SESSION['answerW12']))
+	{
+		unset($_SESSION['answerW12']);
+	}
+	if(isset($_SESSION['answerW13']))
+	{
+		unset($_SESSION['answerW13']);
+	}
+	if(isset($_SESSION['answerW14']))
+	{
+		unset($_SESSION['answerW14']);
+	}
+	if(isset($_SESSION['answerW15']))
+	{
+		unset($_SESSION['answerW15']);
+	}
+//L1
+if(isset($_SESSION['answer1L1']))
+	{
+		unset($_SESSION['answer1L1']);
+	}
+	if(isset($_SESSION['answer2L1']))
+	{
+		unset($_SESSION['answer2L1']);
+	}
+	if(isset($_SESSION['answer3L1']))
+	{
+		unset($_SESSION['answer3L1']);
+	}
+	if(isset($_SESSION['answer4L1']))
+	{
+		unset($_SESSION['answer4L1']);
+	}
+	if(isset($_SESSION['answer5L1']))
+	{
+		unset($_SESSION['answer5L1']);
+	}
+//L2
+if(isset($_SESSION['answer1L2']))
+	{
+		unset($_SESSION['answer1L2']);
+	}
+	if(isset($_SESSION['answer2L2']))
+	{
+		unset($_SESSION['answer2L2']);
+	}
+	if(isset($_SESSION['answer3L2']))
+	{
+		unset($_SESSION['answer3L2']);
+	}
+	if(isset($_SESSION['answer4L2']))
+	{
+		unset($_SESSION['answer4L2']);
+	}
+	if(isset($_SESSION['answer5L2']))
+	{
+		unset($_SESSION['answer5L2']);
+	}
+	if(isset($_SESSION['answer6L2']))
+	{
+		unset($_SESSION['answer6L2']);
+	}
+	if(isset($_SESSION['answer7L2']))
+	{
+		unset($_SESSION['answer7L2']);
+	}
+	if(isset($_SESSION['answer8L2']))
+	{
+		unset($_SESSION['answer8L2']);
+	}
+	if(isset($_SESSION['answer9L2']))
+	{
+		unset($_SESSION['answer9L2']);
+	}
+	if(isset($_SESSION['answer10L2']))
+	{
+		unset($_SESSION['answer10L2']);
+	}
+?>

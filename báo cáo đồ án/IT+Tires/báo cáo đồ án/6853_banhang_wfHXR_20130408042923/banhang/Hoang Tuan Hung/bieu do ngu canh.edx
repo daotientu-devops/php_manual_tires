@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<document version="2.6">
+    <doc-setting>
+        <eConLineJumpCode>7</eConLineJumpCode>
+        <eConLineJumpStyle>3</eConLineJumpStyle>
+        <eJumpDirX>1</eJumpDirX>
+        <eJumpDirY>2</eJumpDirY>
+        <fJumpSize>6</fJumpSize>
+        <uDrawFlags>0</uDrawFlags>
+        <uSnapFlags>767</uSnapFlags>
+        <bShowGrid>1</bShowGrid>
+        <bShowRuler>1</bShowRuler>
+    </doc-setting>
+    <page width="840" height="1188" name="Page-1" class="12677" bk-clr="#FFFFFF" zoom="1" paper-index="13" orient="portrait" unit="mm" id="12674">
+        <defs id="12675">
+            <style id="12677">
+                <fill type="solid-color" color="#FFFF00" opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke type="solid-color" color="#3C5C74" opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="12686">
+                <fill type="solid-color" color="#00B0F0" opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke type="solid-color" color="#D6D4CA" opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="1" scale="1" offset-x="3" offset-y="3" angle="0" type="solid-color" color="#F2F2F2" opcity="1" />
+            </style>
+            <style id="12691">
+                <fill type="solid-color" color="#FFFF00" opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke type="solid-color" color="#000000" opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="12718">
+                <fill type="solid-color" color="#FFFF00" opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke type="solid-color" color="#3C5C74" opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">16</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="12720">
+                <fill opcity="0" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke opcity="0" />
+                <stroke-width>3.38667</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="12828">
+                <fill opcity="0" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke opcity="0" />
+                <stroke-width>3.38667</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">16</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="12842">
+                <fill type="solid-color" color="#FFFF00" opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke type="solid-color" color="#3C5C74" opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">16</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+            <style id="10711">
+                <fill opcity="1" />
+                <fill-rule>nonzero</fill-rule>
+                <stroke opcity="1" />
+                <stroke-width>1</stroke-width>
+                <stroke-linecap>butt</stroke-linecap>
+                <stroke-linejoin>miter</stroke-linejoin>
+                <stroke-miterlimit>4</stroke-miterlimit>
+                <stroke-dash>1</stroke-dash>
+                <stroke-dashoffset>0</stroke-dashoffset>
+                <marker-start size="4">0</marker-start>
+                <marker-end size="4">0</marker-end>
+                <shadow mode="0" type="solid-color" color="#808080" opcity="1" />
+            </style>
+        </defs>
+        <layer name="background" id="12680" />
+        <layer name="layer-1" id="12681">
+            <shape type="shape" class="12686" gpinx="418" gpiny="699.75" lpinx="width*0.5" lpiny="height*0.5" width="180" height="200.5" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="10136">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="=12" y="height*0" joint-type="0" />
+                    <line-to x="=width-12" y="height*0" joint-type="0" />
+                    <curve-to x="width*1" y="=12" a="=width-5.4" b="height*0" c="width*1" d="=5.4" joint-type="0" />
+                    <line-to x="width*1" y="=height-12" joint-type="0" />
+                    <curve-to x="=width-12" y="height*1" a="width*1" b="=height-5.4" c="=width-5.4" d="height*1" joint-type="0" />
+                    <line-to x="=12" y="height*1" joint-type="0" />
+                    <curve-to x="width*0" y="=height-12" a="=5.4" b="height*1" c="width*0" d="=height-5.4" joint-type="0" />
+                    <line-to x="width*0" y="=12" joint-type="0" />
+                    <curve-to x="=12" y="height*0" a="width*0" b="=5.4" c="=5.4" d="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0.5" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;{\colortbl ;\red0\green0\blue0;}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\cf1\lang2052\b\f0\fs28 H\u7878? TH\u7888?NG WEBSITE B\&apos;c1N H\&apos;c0NG\b0\f1\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="10164">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>14</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12691" gpinx="61.675" gpiny="696.946" lpinx="width*0.5" lpiny="height*0.5" width="76.65" height="146.108" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="10102">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.25" y="height*0" />
+                    <anchor x="width*0.75" y="height*0" />
+                    <anchor x="width*0.25" y="height*1" />
+                    <anchor x="width*0.75" y="height*1" />
+                    <anchor x="width*0" y="height*0.25" />
+                    <anchor x="width*0" y="height*0.75" />
+                    <anchor x="width*1" y="height*0.25" />
+                    <anchor x="width*1" y="height*0.75" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset134 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs20 KH\&apos;c1CH H\&apos;c0NG\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="10103">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12691" gpinx="778" gpiny="696.946" lpinx="width*0.5" lpiny="height*0.5" width="76.65" height="146.108" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12695">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.25" y="height*0" />
+                    <anchor x="width*0.75" y="height*0" />
+                    <anchor x="width*0.25" y="height*1" />
+                    <anchor x="width*0.75" y="height*1" />
+                    <anchor x="width*0" y="height*0.25" />
+                    <anchor x="width*0" y="height*0.75" />
+                    <anchor x="width*1" y="height*0.25" />
+                    <anchor x="width*1" y="height*0.75" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset134 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs20 KH\&apos;c1CH H\&apos;c0NG\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12698">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12691" gpinx="359.837" gpiny="355.973" lpinx="width*0.5" lpiny="height*0.5" width="80.326" height="86.054" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12700">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.25" y="height*0" />
+                    <anchor x="width*0.75" y="height*0" />
+                    <anchor x="width*0.25" y="height*1" />
+                    <anchor x="width*0.75" y="height*1" />
+                    <anchor x="width*0" y="height*0.25" />
+                    <anchor x="width*0" y="height*0.75" />
+                    <anchor x="width*1" y="height*0.25" />
+                    <anchor x="width*1" y="height*0.75" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset134 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs20 WEBSITE H\u7878? TH\u7888?NG\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12703">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12691" gpinx="460" gpiny="355.973" lpinx="width*0.5" lpiny="height*0.5" width="80.326" height="86.054" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12705">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.25" y="height*0" />
+                    <anchor x="width*0.75" y="height*0" />
+                    <anchor x="width*0.25" y="height*1" />
+                    <anchor x="width*0.75" y="height*1" />
+                    <anchor x="width*0" y="height*0.25" />
+                    <anchor x="width*0" y="height*0.75" />
+                    <anchor x="width*1" y="height*0.25" />
+                    <anchor x="width*1" y="height*0.75" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset134 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs20 BAN GI\&apos;c1M \u272?\u7888?C\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12708">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12691" gpinx="422" gpiny="1019.99" lpinx="width*0.5" lpiny="height*0.5" width="180" height="80.0202" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12710">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list>
+                    <anchor x="width*0" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*0" />
+                    <anchor x="width*1" y="height*0.5" />
+                    <anchor x="width*0.5" y="height*1" />
+                    <anchor x="width*0.25" y="height*0" />
+                    <anchor x="width*0.75" y="height*0" />
+                    <anchor x="width*0.25" y="height*1" />
+                    <anchor x="width*0.75" y="height*1" />
+                    <anchor x="width*0" y="height*0.25" />
+                    <anchor x="width*0" y="height*0.75" />
+                    <anchor x="width*1" y="height*0.25" />
+                    <anchor x="width*1" y="height*0.75" />
+                </anchor-list>
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs20 C\&apos;d4NG TY\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="parent.height*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*1,parent.height*0)" height="hyp(parent.width*0,parent.height*1)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12713">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="100" beginy="640" endx="328" endy="640" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12714">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12715">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12716" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12717">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="273.799" gpiny="630" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12207">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin kh\&apos;e1ch h\&apos;e0ng \u273?\u259?ng k\&apos;fd\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12210">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="100" beginy="680" endx="328" endy="680" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12722">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12723">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12724" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12725">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="273.799" gpiny="668" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12727">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin t\&apos;e0i kho\u7843?n \u273?\u259?ng nh\u7853?p\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12730">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="100" beginy="717" endx="328" endy="717" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12732">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12735">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12737">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12739">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="273.799" gpiny="705.946" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12741">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20\&apos;fd ki\u7871?n \u273?\&apos;e1nh gi\&apos;e1\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12744">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="100" beginy="759" endx="328" endy="759" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12746">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12749">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12751">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12753">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="273.799" gpiny="747.946" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12755">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 danh s\&apos;e1ch s\u7843?n ph\u7849?m ch\u7885?n l\u7921?a\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12758">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="508" beginy="640" endx="740" endy="640" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12759">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12760">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12761" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12762">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="680" gpiny="630" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12764">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin kh\&apos;e1ch s\u7843?n ph\u7849?m\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12767">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="508" beginy="692" endx="740" endy="692" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12769">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12772">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12774">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12776">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="676" gpiny="682" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12778">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin gi\u7887? h\&apos;e0ng\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12781">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="508" beginy="747.946" endx="740" endy="747.946" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12783">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0" joint-type="0" />
+                    <line-to x="width*1" y="-0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12786">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12788">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12790">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="676" gpiny="737.946" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12792">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 email x\&apos;e1c nh\u7853?n\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12795">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="676" gpiny="747.946" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="12806">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12809" />
+            </shape>
+            <shape type="line" beginx="340" beginy="599.5" endx="parent.localx(shape12700.worldx(shape12700.anchorx7,shape12700.anchory7),shape12700.worldy(shape12700.anchorx7,shape12700.anchory7)) @shape12700.eventtransform;" endy="parent.localy(shape12700.worldx(shape12700.anchorx7,shape12700.anchory7),shape12700.worldy(shape12700.anchorx7,shape12700.anchory7)) @shape12700.eventtransform;" con-beginid="0" con-beginanchor="-1" con-endid="12700" con-endanchor="6" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12810">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-3.80126e-005" joint-type="0" />
+                    <line-to x="width*1" y="0.000477977" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12811">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12812" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12813">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="332" gpiny="440" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12815">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin giao d\u7883?ch\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12818">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="parent.localx(shape12700.worldx(shape12700.anchorx8,shape12700.anchory8),shape12700.worldy(shape12700.anchorx8,shape12700.anchory8)) @shape12700.eventtransform;" beginy="parent.localy(shape12700.worldx(shape12700.anchorx8,shape12700.anchory8),shape12700.worldy(shape12700.anchorx8,shape12700.anchory8)) @shape12700.eventtransform;" endx="379.918" endy="600" con-beginid="12700" con-beginanchor="7" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12819">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0.00054971" joint-type="0" />
+                    <line-to x="width*1" y="-0.000534535" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12820">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12821" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12822">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12828" gpinx="372" gpiny="440" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12824">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 bi\&apos;ean b\u7843?n s\u7921? c\u7889?\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12827">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="parent.localx(shape12705.worldx(shape12705.anchorx7,shape12705.anchory7),shape12705.worldy(shape12705.anchorx7,shape12705.anchory7)) @shape12705.eventtransform;" beginy="parent.localy(shape12705.worldx(shape12705.anchorx7,shape12705.anchory7),shape12705.worldy(shape12705.anchorx7,shape12705.anchory7)) @shape12705.eventtransform;" endx="439.918" endy="600" con-beginid="12705" con-beginanchor="6" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12829">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0.00054971" joint-type="0" />
+                    <line-to x="width*1" y="-0.000534535" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12830">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12831" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12832">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="432" gpiny="426" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12834">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 b\u7843?n y\&apos;eau c\u7847?u b\&apos;e1o c\&apos;e1o\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12837">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="parent.localx(shape12705.worldx(shape12705.anchorx8,shape12705.anchory8),shape12705.worldy(shape12705.anchorx8,shape12705.anchory8)) @shape12705.eventtransform;" beginy="parent.localy(shape12705.worldx(shape12705.anchorx8,shape12705.anchory8),shape12705.worldy(shape12705.anchorx8,shape12705.anchory8)) @shape12705.eventtransform;" endx="480.081" endy="600" con-beginid="12705" con-beginanchor="7" con-endid="0" con-endanchor="-1" class="12842" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12838">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-0.00054971" joint-type="0" />
+                    <line-to x="width*1" y="-0.000534535" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12839">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12840" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12841">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="472" gpiny="440" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12844">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 b\&apos;e1o c\&apos;e1o\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12847">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="340" beginy="980" endx="340" endy="800" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12852">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-3.25852e-005" joint-type="0" />
+                    <line-to x="width*1" y="-2.47171e-005" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12853">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12854" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12855">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="332" gpiny="826" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12857">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin doanh nghi\u7879?p\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12860">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="377" beginy="800" endx="377" endy="980" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12842" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12861">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-6.1672e-005" joint-type="0" />
+                    <line-to x="width*1" y="-4.80824e-005" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12862">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12863" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12864">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="369.837" gpiny="826" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12866">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin t\&apos;e0i kho\u7843?n\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12869">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="412" beginy="799" endx="412" endy="979" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12842" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12871">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-6.1672e-005" joint-type="0" />
+                    <line-to x="width*1" y="-4.80824e-005" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12874">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12876">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12878">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="404.837" gpiny="825" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12880">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin s\u7843?n ph\u7849?m\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12883">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="446" beginy="800" endx="446" endy="980" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12718" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12884">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-6.1672e-005" joint-type="0" />
+                    <line-to x="width*1" y="-4.80824e-005" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12885">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12886" />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12887">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="439" gpiny="820" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12889">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 email x\&apos;e1c nh\u7853?n\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12892">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="line" beginx="483" beginy="800" endx="483" endy="980" con-beginid="0" con-beginanchor="-1" con-endid="0" con-endanchor="-1" class="12842" gpinx="(beginx+endx)*0.5" gpiny="(beginy+endy)*0.5" lpinx="width*0.5" lpiny="height*0.5" width="hyp(endx-beginx, endy-beginy)" height="0" angle="flipx*180+atan2(endy-beginy, endx-beginx)*180/3.1415926" protection="0" misc="0" flipx="false" flipy="false" id="12894">
+                <path nofill="true" noline="false" path-closed="false" noshow="false">
+                    <move-to x="width*0" y="-6.1672e-005" joint-type="0" />
+                    <line-to x="width*1" y="-4.80824e-005" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.15" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12897">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.5" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12899">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+                <text rtf="{\rtf1\ansi\ansicpg1258\deff0\deflang1066{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qr\f0\fs20\par&#x0D;&#x0A;}" gpinx="parent.width*0.85" gpiny="-10" lpinx="width*0.5" lpiny="height*0.5" width="parent.width*0.3" height="20" angle="0" protection="0" misc="0" format="" text-extendmode="2" id="12901">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="475.837" gpiny="826" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="-90" protection="0" misc="0" flipx="false" flipy="false" id="12903">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\f0\fs20 th\&apos;f4ng tin giao h\&apos;e0ng\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="12906">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>400</font-weight>
+                        <font-height>10</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+            <shape type="rect" class="12720" gpinx="487.837" gpiny="1092" lpinx="width*0.5" lpiny="height*0.5" width="308.402" height="24" angle="0" protection="0" misc="0" flipx="false" flipy="false" id="11500">
+                <path nofill="false" noline="false" path-closed="true" noshow="false">
+                    <move-to x="width*0" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*0" joint-type="0" />
+                    <line-to x="width*1" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*1" joint-type="0" />
+                    <line-to x="width*0" y="height*0" joint-type="0" />
+                </path>
+                <control-list />
+                <variable-list />
+                <anchor-list />
+                <action-list />
+                <hyperlink-list />
+                <events eventdrop="0" />
+                <miscellaneous hidetext="0" invisible="0" />
+                <property-sheet />
+                <text rtf="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 \&apos;cb\&apos;ce\&apos;cc\&apos;e5;}}&#x0D;&#x0A;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs28 Bi\u7875?u \u273?\u7891? ng\u7919? c\u7843?nh\f1\par&#x0D;&#x0A;}" gpinx="parent.width*0.291304" gpiny="parent.height*0.502218" lpinx="width*0.5" lpiny="height*0.5" width="hyp(parent.width*0.584077,parent.height*0)" height="hyp(parent.width*0,parent.height*0.967617)" angle="0" protection="0" misc="0" format="" text-extendmode="0" id="11503">
+                    <text-style>
+                        <font-family>Arial</font-family>
+                        <font-weight>700</font-weight>
+                        <font-height>14</font-height>
+                        <font-italic>false</font-italic>
+                        <font-underline>false</font-underline>
+                        <font-strikeout>false</font-strikeout>
+                        <align-horizontal>center</align-horizontal>
+                        <align-vertical>center</align-vertical>
+                        <color>#000000</color>
+                        <font-offset>0</font-offset>
+                    </text-style>
+                </text>
+            </shape>
+        </layer>
+    </page>
+    <preview-image>iVBORw0KGgoAAAANSUhEUgAAAEYAAABkCAYAAAA7Ska5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAACTRJREFUeF7tnWlPI8kZxyvfZj9M8ipSolWkREqi5M1K+yLKOYm0yh7ZlWYVbUZZllUisplhk8zsCjQD7BzAwHAMxvjExgcG38ZuH2AwwznzpP7VVI+PNmBj2iu7Wip1u9x2d/36/zz1VNVj+A7xjamtkQDADA4OqlLFQIhFgsFebbpIFBgTJSgwTcxDgVFgWvOcSjFKMUoxrRFQimmNl/IxSjFKMa0RUIppjZfyMUoxSjGtEVCKaY2X8jFKMUoxrRFQimmNl/IxSjFKMa0R+LYoJp+fIU37fpMyTYeHh5RMmr+fTH7QkUZf5kss9zGa9m9+X1jfayyaNkSVSoWXZu9/9zJt6sg5XQGzt8col2OUyTDKZhlXCKP9fcZVpINBXanEqFxmlM+jXpYeBxMMMvrmG0YTE/re7dYBSTBeL6OREUazs4yWlhiNjTEaHcX7PQ5mfJzR1BQj7AcGGA0PM5qcfA1GmtLQEKPbtxml07pp9TwYNPL4WPmYGmeonG+TviGfn+Mm8SNKJH8g9iip9A/FPp+fPeuuX9ehPpN5U5RU6mZHepzLfInlvZK8qQXnmnF/2+W9hnutrktsaYRi5dY1MNUNvwjMi4NDOjw6tpJL9xKHzgPjdDopkcoYIBSYMxTr6+sU7zcwL1++pKdPn5JUTC6XI61QqjETn89HifRWfynm9PSUpqenDTChUKgGAmjYbDaKJlL9BQatdbvdBphYLNYAJhwOU/JMMXt7exSNxXvf+cKUHj58SMXtslDE5uYmpTLZGlNaWlqi2JlistksOV3u3gcDAn6/3wAzNzdHsWS6Bkw8Hqf0Vk7UlctlCkc2eh8MfMzCwoJhSjCb1BkESef58+cUicbFSyhmybbc+2DQ2JmZGSqUdkTDnz171qCYaDRKWa1gKCab03ofDBTz6NEjQzFQT7zOlJaXl2kznuyvXgnO1+VyGWDQ+vohQbFYNBSF91XkW+WCq2EpMApMrfnYPMGa7hovquv6RjGxyjH92VOiD4MVUW44NOPYrO5d3w695y/Tp5EKHZ++bIB4HRVdmY/5haNMbHSnrTKRqlwHh4bvbACjaTf4NGNjKRZt4sOJREKE8Qi8UqkUXx/KiX0ymeSf08R76XSaCoUCYYCYyWREPcY8cvuJvX0wown9e169ekWRSERcr1QqiX0+nycx9uL3iDrcE3o4vA4EAnztar8GANpk1tZY7IbZRJX5KmAs8YnoVjdjCXJ5fbTscFEgHBGj4EBonVZcHhGoeVb95HB7ybcWJJvdIc5DFIuCz7sCG/TmYrEttUBlw6GC+B6UVX4NXMfNr4n9+maMvP6AeI37sq04KRTZJH8wTCtON2VyeeOzgc0kv/+POCiz1Qp2eTCaNtARCe+/OKROKOaqN7PPp0tzuU87B2Z7e5t2d3fp4OBAmAfkib2s29nZEcusGPwdHR2J93B8cnLSUVO6Khh8Xn/YHVIMRr4rKytkt9uFD4E/WV1dpWAwKEbNmGvB1CT28hyE+LB36RtqFPOZi9gfviT28SyxDx/x/Qyx394m9vthYu8+IPbJYo3ZSR8jwcDXHB/rE+U4RmSNgoeC/Xlby2BWVxkf6Onrxna7TlT6GGnf7e4XXGu1PmbQTexPd3Uwn3uI3bIR++P/dCgA9s7IuWDg/Ofn50Xxer20trYmBqY4XlxcFCN5OOL6DRAB5uCA8c/qS8Y+H+MPWE8gMOmu9eyD5WXGlcG4N5frxo0+Rj4h5LRgg7mgDhsGi802QzE3/kvsp+8T+x1XyK+HiP3qn8TeHiCG+gEnsZ99QOw3X3Bw94gNcmXVOd92H47sBNZCH4mlYsBYXNTbLLMrTMHEYozu3WP01VeMm0VzMOiKYUJ4MhsbG2JmDmbm8XjEhPeFYAYcxN4fJ/bXeWI3n+qmdHNah/JFRFcNlIT3/hUWYOpN6Sq+RprS3Byjr7/Wsy8KhXMUY+aQOmVK806/eXcNKG/dIvbjd7hS/qIrxSQIvA4w9e1takrmnroz3TWesGl3/WWC+xivXoaCxP72/NJg0BMioERBrwmfAt+ztbVVE1jWq6tl53seGExFwnxwYZgPIk1El+iREOFiFRERKW4We5gbejJEpXK7ShxTHeBJH2PnwRuCOgSeKCLgC4REgBflE15mviiaylJk8+Ord9cwpRKPNnFBRJNY3kDkiYgWFw+EIqI+uL4h9lhiDfLIGNEw6jAjhxt0XzHy7ZQpoS2p9K3Lg9G0N/iTbyyZzH+u4ueMz1ZeHHwrIl/cENpk1tZw+I3uLOpfxZQ6pZiLnnJXph3edu+2PYicSjfm0lzUyHbe7wqY3aNT+oc7RSPxXVE+rzr+uz1m1A8H8zXnTHIo5wWO7QBo9pmugMHNuNYixj1VH6+Go0a9nBBHNA2nbeXWFTBYPint7DYAQEWzhCKzrKvrBGU5GIyE79+/X5MGIhuNUbg8Rmwkj2dnZ4217uuEUf3dloOR2Q75syXaBw8eCACYJnj8+LFxPDExIY7hUwCm5xWDp4L5G9lQLODjGH4ExwWeHoJRulz4BxhkWPU8GCgGqR+yoZhHwTHqJycnTU1MKskqM8J1LDclXLQaANLKJCSMs3AMxSAjQprSkydP+sPHYM6mXjEwJWRSoR7zydJ8oKTq861SjeWKQUMxsSXBOBwOymT1rG8oRmZwSlXhfNRXd+9WwLEcDJQB85GJQ5jpk/l4U1NTNfUSHur7Akx1Oqv0JVBGdb0M9jCfXF/fk4pB91vdK2FySyoDk1r1kS+AYQm457trmBJm8y4T+jc7pycVIxt1EZhj3mWv+NZNx1M9CwZZBsnUL/ns2VuiNDuOxn/ecE4m85kVXLoT4J33879mv8mW9Zr2PQXGfLWiz8CkUozn/zK6e1dfS/Z4GE8GMstE6DMwWEPG8ih+c41f6J+c6KVxlbDPwFzkW5SPafIHMfoCTKXCf+6n4ffXrZdi0d+7vVJ1y6pT0C7KgLKEyNlFLB9dy8aNj4/zv/gxQnfu3BGL//hFCo6RloopToy6MQ+DeRkMNDHVOTY2ZhmbroFBxgTmWZCrh7QwJBshZw+5epiWGB0dJfxuCVkUWD1AChmKVVvXwFjVwHavo8A0IafAKDCtGZVSzGUVo/751Ot/vgVm4h9Pqa2RwP8BNhSpBDYNqqQAAAAASUVORK5CYII=</preview-image>
+</document>

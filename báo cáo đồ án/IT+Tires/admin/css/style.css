@@ -1,0 +1,365 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+select
+{
+	width: auto;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+select:focus
+{
+	background: #ffffdd;
+}
+input[type="text"]
+{
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+input[type="password"]
+{
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+input[type="text"]:focus
+{
+	background: #ffffdd;	
+}
+input[type="password"]:focus
+{
+	background: #ffffdd;	
+}
+textarea
+{
+	resize: none;	
+}
+textarea:focus
+{
+	background: #ffffdd;	
+}
+body
+{
+    margin: 0;
+    font-size:  12px;
+    font-family:  Arial, Helvetica, sans-serif;
+	background: #f3f3f3;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	onselectstart='return false'	
+}
+#calendar{padding: 5px;border:1px solid #999;border-radius:6px;position: absolute;right: 10px;bottom: 10px;}
+.banner
+{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background: #0055A8;
+}
+.banner .title
+{
+    float: left;
+    margin-left: 20px;
+    line-height: 100px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+.banner .TopLogin
+{
+    float: left;
+    margin-left: 20px;
+    line-height: 100px;
+    color: #FFF;
+    font-weight: bold;
+}
+.banner .TopLogin a
+{
+	color: #FFF;
+	text-decoration: none;
+}
+.banner .TopLogin a:hover
+{
+	color: #cbcbcb;
+}
+.banner .DateTime
+{
+	float: right;
+	width: 222px;
+	height: 70px;
+	border: 1px dashed #999;
+	border-radius: 6px;
+	margin-top: 10px;
+	margin-right: 30px;
+	padding: 5px 10px;
+	text-align: center;
+	color: #fff;
+}
+span
+{
+	display: block;
+}
+.DateTime #time
+{
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.banner .logo
+{
+    float: right;
+    margin-right: 20px;
+    margin-top: 18px;
+    width: 80px;
+    height: 71px;
+    background: url(../images/icon/logo-wordpress.png) no-repeat top left;
+}
+.banner .pageLoader
+{
+	float: right;
+	width: 220px;
+	height: 28px;	
+	line-height: 28px;
+	background: #ed1c24;
+	margin-top: 36px;
+    margin-right: 20px;
+	color: #fff;
+	font-weight: bold;
+	text-align: center
+}
+.footer
+{
+    float: left;
+    width: 100%;
+    height: 100px;
+
+    background: #0055A8;
+	color: #FFF;
+	display: table;
+
+}
+.footer .conleft
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;	
+	line-height: 150%;
+}
+.header
+{
+    float: left;
+    width: 100%;
+    background: #3380CB;
+}
+.header .menu
+{
+    float: left;
+    height: 30px;
+    background: #3380CB;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+.header .menu ul
+{
+    
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+.header .menu ul li
+{
+    list-style: none;
+	height: 30px;
+    line-height: 30px;
+    float: left;
+	position: relative;
+    border-right: 1px solid #999;
+	z-index: 100;
+}
+.header .menu ul li a
+{
+	display: block;
+    padding: 0px 10px;
+    float: left;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
+}
+.header .menu ul li:hover
+{
+    background: #225486;
+    list-style: none;
+    line-height: 30px;
+    float: left;
+    border-right: 1px solid #999;
+}
+.header .menu ul li a:hover
+{
+    padding: 0px 10px;
+    float: left;
+    text-decoration: none;
+    color: #f3f3f3;
+    font-weight: bold;
+}
+.header .menu ul li:hover ul
+{
+    display: block;
+}
+.header .menu ul li ul
+{
+  	margin-top: 31px;
+	width: 140px;
+    display: none;
+    position: absolute;
+}
+.header .menu ul li ul li
+{
+ 
+	width: 100%;
+	list-style: none;
+    line-height: 30px;
+    height: 30px;
+    float: left;
+  
+    margin-left: -1px;
+    text-align: left;
+    border: 1px solid #999;
+	border-top: none;
+    background: #3380CB;
+}
+.header .menu ul li ul li:hover
+{
+    
+}
+/**********Content*************/
+.content
+{
+	width: 100%;
+	float: left;
+	margin-top: 0px;
+	background: #f3f3f3;
+	
+}
+.content .login
+{
+	clear: both;
+	width: 600px;
+	height: 300px;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: #f3f3f3;
+}
+.content .login .title
+{
+	float: left;
+	width: 560px;
+	line-height: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #2D427B;
+}
+.content .login .ContentLog
+{
+	float: left;
+	width: 600px;
+}
+.content .login .ContentLog .DivLeft
+{
+	float: left;
+	width: 219px;
+
+}
+.content .login .ContentLog .DivLeft .image
+{
+	float: left;
+	width: 158px;
+	height: 158px;
+	background: url(../images/icon/secrecy-icon.png) no-repeat top left;
+	border: 1px solid #ccc;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.content .login .ContentLog .DivLeft .LinkToHome
+{
+	float: left;
+	width: 158px;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+.content .login .ContentLog .DivLeft .LinkToHome a
+{
+	text-decoration: none;
+	color: #0055A8;
+}
+.content .login .ContentLog .DivLeft .LinkToHome a:hover
+{
+	text-decoration: none;
+	color: #2D427B;
+}
+.content .login .ContentLog .LoginToSystem
+{
+	float: right;
+	width: 358px;
+	height: 228px;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin-left: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+/*************************/
+.csstable
+{
+	margin-top: 10px;
+	border: 1px solid #ccc;
+	border-collapse: collapse;	
+}
+.csstable th
+{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;	
+	background: #3380CB;
+	color: #FFF;
+}
+.csstable td
+{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;	
+}
+.csstable td a
+{
+	text-decoration: none;
+	color: #2D427B;
+	font-weight: bold;	
+}
+.csstable tr:hover
+{
+	background: #BFD9E7;	
+}
+
+
+
+
+
+
+
+
+

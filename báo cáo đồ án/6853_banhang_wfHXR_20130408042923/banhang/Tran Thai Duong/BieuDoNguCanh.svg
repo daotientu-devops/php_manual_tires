@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/duongrs"
+   sodipodi:docname="BieuDoNguCanh.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective6161" />
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path5300"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path6234"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path6157"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path6145"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path6139"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5831323"
+     inkscape:cx="372.04724"
+     inkscape:cy="782.26756"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1279"
+     inkscape:window-height="725"
+     inkscape:window-x="1"
+     inkscape:window-y="49"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9551">
+      <rect
+         ry="20"
+         rx="20.236687"
+         y="276.36218"
+         x="295.02954"
+         height="224"
+         width="169.98816"
+         id="rect2166"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00589979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(1.0058997,0.9941349)"
+         id="text4114"
+         y="364.57974"
+         x="377.69159"
+         style="font-size:28.16519356px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="364.57974"
+           x="377.69159"
+           id="tspan4116"
+           sodipodi:role="line">Hệ thống</tspan><tspan
+           id="tspan4118"
+           y="400.78786"
+           x="377.69159"
+           sodipodi:role="line">Website</tspan><tspan
+           id="tspan4120"
+           y="435.99435"
+           x="377.69159"
+           sodipodi:role="line">Bán hàng</tspan></text>
+    </g>
+    <rect
+       style="fill:none"
+       id="rect4129"
+       width="100"
+       height="120"
+       x="116"
+       y="318.36218" />
+    <a
+       id="a5124">
+      <g
+         id="g9562">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.05692899;stroke-linejoin:round;stroke-opacity:1"
+           id="rect4131"
+           width="95.934067"
+           height="129.952"
+           x="38.03297"
+           y="323.38617" />
+        <text
+           transform="scale(1.00852,0.9915519)"
+           xml:space="preserve"
+           style="font-size:12.68314743px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="85.144447"
+           y="384.71429"
+           id="text5102"><tspan
+             sodipodi:role="line"
+             id="tspan5104"
+             x="85.144448"
+             y="384.71429"
+             style="font-size:21.13858032px;text-align:center;text-anchor:middle">Khách</tspan><tspan
+             sodipodi:role="line"
+             x="85.144448"
+             y="411.13752"
+             id="tspan5106"
+             style="font-size:21.13858032px;text-align:center;text-anchor:middle">Hàng</tspan></text>
+      </g>
+    </a>
+    <g
+       id="g9572">
+      <rect
+         y="323.38617"
+         x="626.0802"
+         height="129.952"
+         width="95.934067"
+         id="rect5116"
+         style="fill:none;stroke:#000000;stroke-width:1.05692899;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="scale(1.00852,0.9915519)"
+         id="text5118"
+         y="384.71429"
+         x="668.22382"
+         style="font-size:12.68314743px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:21.13858032px;text-align:center;text-anchor:middle"
+           y="384.71429"
+           x="668.22382"
+           id="tspan5120"
+           sodipodi:role="line">Khách</tspan><tspan
+           style="font-size:21.13858032px;text-align:center;text-anchor:middle"
+           id="tspan5122"
+           y="411.13752"
+           x="668.22382"
+           sodipodi:role="line">Hàng</tspan></text>
+    </g>
+    <g
+       id="g7361"
+       transform="translate(0,4.5740321)">
+      <path
+         inkscape:connector-type="polyline"
+         id="path5160"
+         d="M 134.49555,341.51093 L 294.52366,341.51093"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="translate(-0.300252,-3.0506339)"
+         id="text7308"
+         style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath7338"
+           startOffset="50%"
+           xlink:href="#path5160"><tspan
+   id="tspan7310"><tspan
+     style="font-size:8px"
+     id="tspan7312">Thông tin khách hàng đăng kí</tspan></tspan></textPath></text>
+    </g>
+    <g
+       id="g7368"
+       transform="translate(0,16.227207)">
+      <path
+         inkscape:connector-type="polyline"
+         id="path6337"
+         d="M 134.49555,360.61293 L 294.52366,360.61293"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(19.666351,-6.1012575)"
+         id="text7349"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath7353"
+           xlink:href="#path6337"><tspan
+   id="tspan7351"
+   style="font-size:8px">Thông tin tài khoản đăng nhập</tspan></textPath></text>
+    </g>
+    <g
+       id="g2205"
+       transform="translate(0,18.217584)">
+      <path
+         inkscape:connection-start="#a5124"
+         inkscape:connector-type="polyline"
+         id="path8345"
+         d="M 134.4955,383.81826 L 294.52361,383.81826"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(50.168304,-6.1012656)"
+         sodipodi:linespacing="125%"
+         id="text2196"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           style="font-size:8px"
+           id="textPath2202"
+           xlink:href="#path8345">Ý kiến đánh giá</textPath></text>
+    </g>
+    <g
+       id="g2217"
+       transform="translate(0,-0.32634)">
+      <path
+         inkscape:connector-type="polyline"
+         id="path7374"
+         d="M 134.49555,436.01294 L 294.52366,436.01294"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(18.416351,-6.1012697)"
+         id="text2210"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath2214"
+           xlink:href="#path7374"><tspan
+   id="tspan2212"
+   style="font-size:8px">dánh sách sản phẩm chọn mua</tspan></textPath></text>
+    </g>
+    <g
+       id="g3263">
+      <path
+         inkscape:connector-type="polyline"
+         id="path2245"
+         d="M 465.52371,354.66282 L 625.54731,354.66282"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(40.755953,-6.1012668)"
+         id="text2259"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath2263"
+           xlink:href="#path2245"><tspan
+   id="tspan2261"
+   style="font-size:8px">Thông tin sản phẩm</tspan></textPath></text>
+    </g>
+    <g
+       id="g3257">
+      <path
+         inkscape:connector-type="polyline"
+         id="path2249"
+         d="M 465.52361,388.36218 L 625.54721,388.36218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(43.043047,-6.1012607)"
+         id="text2266"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath2270"
+           xlink:href="#path2249"><tspan
+   id="tspan2268"
+   style="font-size:8px">Thông tin giỏ hàng</tspan></textPath></text>
+    </g>
+    <g
+       id="g3251">
+      <path
+         inkscape:connector-type="polyline"
+         id="path2247"
+         d="M 465.52366,428.16282 L 625.54726,428.16282"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(29.802756,-6.1012656)"
+         id="text3244"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath3248"
+           xlink:href="#path2247"><tspan
+   id="tspan3246"
+   style="font-size:8px">email xác nhận</tspan></textPath></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.93623102;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3289"
+       width="116.73702"
+       height="75.354385"
+       x="321.65509"
+       y="632.54614" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-size:22.46954346px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="355.78439"
+       y="708.47913"
+       id="text3291"
+       transform="scale(1.0681125,0.936231)"><tspan
+         y="708.47913"
+         x="355.78439"
+         id="tspan6165"
+         sodipodi:role="line">Công ty</tspan></text>
+    <g
+       id="g5493">
+      <path
+         inkscape:connector-type="polyline"
+         id="path3303"
+         d="M 334.02366,632.10791 L 334.02366,500.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(-6.1011623,-18.697031)"
+         id="text3315"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath5477"
+           xlink:href="#path3303"><tspan
+   id="tspan3317"
+   style="font-size:8px;writing-mode:lr-tb">Thông tin doanh nghiệp</tspan></textPath></text>
+    </g>
+    <g
+       id="g5487">
+      <path
+         inkscape:connector-type="polyline"
+         id="path3307"
+         d="M 360.07425,632.10791 L 360.07425,500.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(-6.1011696,-27.634531)"
+         id="text5480"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath5484"
+           xlink:href="#path3307"><tspan
+   id="tspan5482"
+   style="font-size:8px">Thông tin tài khoản</tspan></textPath></text>
+    </g>
+    <g
+       id="g5532">
+      <path
+         inkscape:connector-type="polyline"
+         id="path3313"
+         d="M 383.07425,632.10791 L 381.43162,500.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(-6.1011696,-26.781014)"
+         id="text5499"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath5503"
+           xlink:href="#path3313"><tspan
+   id="tspan5501"
+   style="font-size:8px">Thông tin sản phẩm</tspan></textPath></text>
+    </g>
+    <g
+       id="g5526">
+      <path
+         inkscape:connector-type="polyline"
+         id="path3311"
+         d="M 405.85937,632.10791 L 405.85937,500.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);marker-end:none;stroke-opacity:1" />
+      <text
+         transform="translate(-5.6714146,-28.32409)"
+         id="text5506"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath5510"
+           xlink:href="#path3311"><tspan
+   id="tspan5508"
+   style="font-size:8px">Email xác nhận</tspan></textPath></text>
+    </g>
+    <g
+       id="g5520">
+      <path
+         inkscape:connector-type="polyline"
+         id="path3309"
+         d="M 429.07425,632.10791 L 429.07425,500.86218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1" />
+      <text
+         transform="translate(-6.1011696,-26.224374)"
+         id="text5513"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath5517"
+           xlink:href="#path3309"><tspan
+   id="tspan5515"
+   style="font-size:8px">Thông tin giao hàng</tspan></textPath></text>
+    </g>
+    <g
+       id="g9482">
+      <rect
+         y="74.275864"
+         x="307.8548"
+         height="73.299995"
+         width="60.630859"
+         id="rect5538"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5540"
+         y="106.7364"
+         x="338.12628"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           y="106.7364"
+           x="338.12628"
+           id="tspan5542"
+           sodipodi:role="line">Website</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan5544"
+           y="121.7364"
+           x="338.12628"
+           sodipodi:role="line">Hệ thống</tspan></text>
+    </g>
+    <g
+       id="g5552"
+       transform="translate(87.502332,-46)">
+      <rect
+         y="120.27586"
+         x="304.05923"
+         height="73.299995"
+         width="60.630859"
+         id="rect5554"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5556"
+         y="152.7364"
+         x="334.33072"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan5560"
+           y="152.7364"
+           x="334.33072"
+           sodipodi:role="line">Ban</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           y="167.7364"
+           x="334.33072"
+           sodipodi:role="line"
+           id="tspan5564">Giám đốc</tspan></text>
+    </g>
+    <g
+       id="g9522">
+      <path
+         inkscape:connector-type="polyline"
+         id="path5588"
+         d="M 324.88292,275.92523 L 324.66855,148.07586"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;display:inline" />
+      <text
+         transform="translate(-6.2633993,-26.42565)"
+         id="text9494"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath9498"
+           xlink:href="#path5588"><tspan
+   id="tspan9496"
+   style="font-size:8px">Thông tin giao dịch</tspan></textPath></text>
+    </g>
+    <g
+       id="g9528">
+      <path
+         inkscape:connector-type="polyline"
+         id="path6561"
+         d="M 357.61308,275.33262 L 357.39871,147.48325"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);marker-end:none;stroke-opacity:1;display:inline" />
+      <text
+         transform="translate(-5.6187663,-34.281168)"
+         id="text9501"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath9513"
+           xlink:href="#path6561"><tspan
+   id="tspan9503"
+   style="font-size:8px">Biên bản sự cố</tspan></textPath></text>
+    </g>
+    <g
+       id="g9540"
+       transform="translate(-29.999939,0)">
+      <path
+         inkscape:connector-type="polyline"
+         id="path5590"
+         d="M 440.7857,274.88012 L 441.06826,147.93569"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow2Lstart);stroke-opacity:1;display:inline" />
+      <text
+         transform="translate(-4.6338822,-31.043521)"
+         id="text9505"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath9519"
+           xlink:href="#path5590"><tspan
+   id="tspan9507"
+   style="font-size:8px">Yêu cầu báo cáo</tspan></textPath></text>
+    </g>
+    <g
+       id="g9534"
+       transform="translate(29.999643,0)">
+      <path
+         inkscape:connector-type="polyline"
+         id="path6563"
+         d="M 407.82642,276.16061 L 407.61205,148.31124"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-opacity:1;display:inline" />
+      <text
+         transform="translate(-2.3683669,-48.936059)"
+         id="text9509"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><textPath
+           id="textPath9516"
+           xlink:href="#path6563"><tspan
+   id="tspan9511"
+   style="font-size:8px">Báo cáo</tspan></textPath></text>
+    </g>
+  </g>
+</svg>

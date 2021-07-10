@@ -1,0 +1,404 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+select
+{
+	width: auto;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+select:focus
+{
+	background: #ffffdd;
+}
+input[type="text"]
+{
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+input[type="password"]
+{
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;
+}
+input[type="text"]:focus
+{
+	background: #ffffdd;	
+}
+input[type="password"]:focus
+{
+	background: #ffffdd;	
+}
+textarea
+{
+	resize: none;
+	border: 2px solid #ccc;
+	border-radius: 6px;
+	padding: 5px;	
+}
+textarea:focus
+{
+	background: #ffffdd;	
+}
+body
+{
+    margin: 0;
+    font-size:  12px;
+    font-family:  Arial, Helvetica, sans-serif;
+	background: #f3f3f3;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	onselectstart='return false'	
+}
+#calendar{padding: 5px;border:1px solid #999;border-radius:6px;position: absolute;right: 10px;bottom: 10px;}
+.banner
+{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background: #001941;
+}
+.banner .title
+{
+    float: left;
+    margin-left: 20px;
+    line-height: 100px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+.banner .TopLogin
+{
+    float: left;
+    margin-left: 20px;
+    line-height: 100px;
+    color: #FFF;
+    font-weight: bold;
+}
+.banner .TopLogin a
+{
+	color: #FFF;
+	text-decoration: none;
+}
+.banner .TopLogin a:hover
+{
+	color: #cbcbcb;
+}
+.banner .DateTime
+{
+	float: right;
+	width: 222px;
+	height: 70px;
+	border: 1px dashed #999;
+	border-radius: 6px;
+	margin-top: 10px;
+	margin-right: 30px;
+	padding: 5px 10px;
+	text-align: center;
+	color: #fff;
+}
+span
+{
+	display: block;
+}
+.DateTime #time
+{
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.banner .logo
+{
+    float: right;
+    margin-right: 20px;
+    margin-top: 18px;
+    width: 80px;
+    height: 71px;
+    background: url(../images/icon/logo-wordpress.png) no-repeat top left;
+}
+.banner .pageLoader
+{
+	float: right;
+	width: 220px;
+	height: 28px;	
+	line-height: 28px;
+	background: #ed1c24;
+	margin-top: 36px;
+    margin-right: 20px;
+	color: #fff;
+	font-weight: bold;
+	text-align: center
+}
+.footer
+{
+    float: left;
+    width: 100%;
+    height: 100px;
+
+    background: #001941;
+	color: #FFF;
+	display: table;
+
+}
+.footer .conleft
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;	
+	line-height: 150%;
+}
+.header
+{
+    float: left;
+    width: 100%;
+    background: #003592;
+}
+.header .menu
+{
+    float: left;
+    height: 30px;
+    background: #003592;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+.header .menu ul
+{
+    
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+.header .menu ul li
+{
+    list-style: none;
+	height: 30px;
+    line-height: 30px;
+    float: left;
+	position: relative;
+    border-right: 1px solid #999;
+	z-index: 100;
+}
+.header .menu ul li a
+{
+	display: block;
+    padding: 0px 10px;
+    float: left;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
+}
+.header .menu ul li:hover
+{
+    background: #225486;
+    list-style: none;
+    line-height: 30px;
+    float: left;
+    border-right: 1px solid #999;
+}
+.header .menu ul li a:hover
+{
+    padding: 0px 10px;
+    float: left;
+    text-decoration: none;
+    color: #f3f3f3;
+    font-weight: bold;
+}
+.header .menu ul li:hover ul
+{
+    display: block;
+}
+.header .menu ul li ul
+{
+  	margin-top: 31px;
+	width: 140px;
+    display: none;
+    position: absolute;
+}
+.header .menu ul li ul:before
+{
+	content:"";
+	position:absolute;
+	display:block;
+}
+.header .menu ul li ul li
+{
+ 
+	width: 100%;
+	list-style: none;
+    line-height: 30px;
+    height: 30px;
+    float: left;
+  
+    margin-left: -1px;
+    text-align: left;
+    border: 1px solid #999;
+	border-top: none;
+    background: #003592;
+}
+.header .menu ul li ul li:hover
+{
+    
+}
+/**********Content*************/
+.content
+{
+	width: 100%;
+	float: left;
+	margin-top: 0px;
+	background: #f3f3f3;
+	
+}
+.content .login
+{
+	clear: both;
+	width: 600px;
+	height: 300px;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: #f3f3f3;
+}
+.content .login .title
+{
+	float: left;
+	width: 560px;
+	line-height: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #2D427B;
+}
+.content .login .ContentLog
+{
+	float: left;
+	width: 600px;
+}
+.content .login .ContentLog .DivLeft
+{
+	float: left;
+	width: 219px;
+
+}
+.content .login .ContentLog .DivLeft .image
+{
+	float: left;
+	width: 158px;
+	height: 158px;
+	background: url(../images/icon/secrecy-icon.png) no-repeat top left;
+	border: 1px solid #ccc;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.content .login .ContentLog .DivLeft .LinkToHome
+{
+	float: left;
+	width: 158px;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+.content .login .ContentLog .DivLeft .LinkToHome a
+{
+	text-decoration: none;
+	color: #001941;
+}
+.content .login .ContentLog .DivLeft .LinkToHome a:hover
+{
+	text-decoration: none;
+	color: #2D427B;
+}
+.content .login .ContentLog .LoginToSystem
+{
+	float: right;
+	width: 358px;
+	height: 228px;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	margin-left: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+/*************************/
+.csstable
+{
+	margin-top: 10px;
+	border: 1px solid #ccc;
+	border-collapse: collapse;	
+}
+.csstable tr:nth-child(odd){background-color:#def;}
+.csstable th
+{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;	
+	background: #003592;
+	color: #FFF;
+}
+.csstable td
+{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;	
+}
+.csstable td a
+{
+	text-decoration: none;
+	color: #2D427B;
+	font-weight: bold;	
+}
+.csstable td a:hover
+{
+	text-decoration: underline;
+}
+.csstable tr:hover
+{
+	background: #BFD9E7;	
+}
+.xdebug-error{display:none;}
+.endpage{clear:both;width:100%;margin:0 auto;padding:20px 0;}
+.social-menu{text-align:center;padding-top:30px;}
+.primary-menu{list-style:none;position:relative;}
+.primary-menu li{display:inline;text-align:center;margin:0 10px;position:relative;}
+.primary-menu li a{position:relative;text-decoration:none;font-size:25px;background:#d9d9d9;display:inline-block;width:50px;height:40px;padding-top:10px;color:#fff;border:3px solid #fff;
+-webkit-border-radius:100px;-moz-border-radius:100px;-o-border-radius:100px;-ms-border-radius:100px;-khtml-border-radius:100px;border-radius:100px;
+-webkit-border-radius:0 0 1px 1px #afafaf;-moz-box-shadow:0 0 1px 1px #afafaf;-o-box-shadow:0 0 1px 1px #afafaf;-ms-box-shadow:0 0 1px 1px #afafaf;-khtml-box-shadow:0 0 1px 1px #afafaf;box-shadow:0 0 1px 1px #afafaf;
+-webkit-transition:all 1s;-moz-transition:all 1s;-o-transition:all 1s;-ms-transition:all 1s;-khtml-transition:all 1s;transition:all 1s;
+}
+.primary-menu li.facebook a:hover{background:#00438f;}
+.primary-menu li.twitter a:hover{background:#00b8df;}
+.primary-menu li.flickr a:hover{background:#df00bd;}
+.primary-menu li.rss a:hover{background:#ff7800;}
+.primary-menu li.mail a:hover{background:#1d1d1d;}
+.primary-menu li a:hover{
+-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);-khtml-transform:rotate(360deg);transform:rotate(360deg); }
+.primary-menu li span.social-span{font-size:11px;position:absolute;width:100px;top:45px;left:-45%;background:#fff;padding:5px;border:1px solid #b8b8b8;opacity:0;
+-webkit-border-radius:10px;-moz-border-radius:10px;-o-border-radius:10px;-ms-border-radius:10px;-khtml-border-radius:10px;border-radius:10px;
+-webkit-transition:opacity 1s ease-in-out;-moz-transition:opacity 1s ease-in-out;-o-transition:opacity 1s ease-in-out;-ms-transition:opacity 1s ease-in-out;-khtml-transition:opacity 1s ease-in-out;transition:opacity 1s ease-in-out;}
+.primary-menu li a:hover ~ span.social-span{opacity:1;}
+.primary-menu li span.social-span:after{content:"";position:absolute;border-color:#fff transparent;display:block;top:-7px;left:40%;width:0;border-width:0 7px 7px;border-style:solid;}
+.float-ck{position:fixed;bottom:5px;left:5px;z-index:9000}
+#float_content_left{background:#5cc151;border:2px solid #274e37;}
+#hide_float_left a{display:inline-block;background:#007836;padding:5px;color:#fff;text-decoration:none;}
+#hide_float_left a:hover{text-decoration:underline;}
+/*Sitemap*/
+
+
+
+
+
+
+

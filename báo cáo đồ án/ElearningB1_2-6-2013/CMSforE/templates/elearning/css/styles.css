@@ -1,0 +1,1465 @@
+@charset "utf-8";
+/* CSS Document */
+/*****************
+class clearfix dùng để định dạng một block bất kỳ khi bên trong nó chứa các tag có dùng css float.
+-	Ví dụ:
+<div class="clearfix">
+	<div style="float: left;">Block Left</div>
+	<p style="float: right;">Block Right</div>
+</div>
+
+class clearfix có tác dụng chiếm toàn bộ khoảng trống bên trong nó và có chiều rộng là max so với tag bao ngoài nó.Có thể dùng clearfix bất cứ nơi nào bạn muốn, nó không ảnh hưởng đến bố cục riêng của bạn mà sẽ làm cho layout của bạn chặt chẽ hơn rất nhiều, nghĩa là khi bên trong nó có chứa tag float thì phải có clearfix bao ngoài.
+
+*********************/
+.error
+{
+	color: #F00;
+}
+.clearfix:after
+{
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0
+}
+.clearfix
+{
+	display: inline-block
+}
+html[xmlns] .clearfix
+{
+	display: block
+}
+* html .clearfix
+{
+	height: 1%;
+}
+a
+{
+	text-decoration: none; 
+}
+
+#wrapper
+{
+	width: 1100px;
+	margin: auto;
+	background: url(../../../images/bg/bg.gif) repeat top left;
+}
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	margin: 0;
+	padding: 0;
+	background:url(../../../images/bg/bg.png) repeat top left;
+}
+#startpage
+{
+	clear: both;
+	background: url(../../../images/bg/startpage.png) repeat top left;
+	width: 100%;
+	height: 30px;
+}
+#startpage .left
+{
+	float: left;
+	color: #006;
+	font-weight: bold;
+	line-height: 30px;
+	margin-left: 10px;
+}
+#startpage .right
+{
+	float: right;
+	margin-right: 10px;
+	height: 30px;
+}
+#startpage .right ul
+{
+	float: right;
+	height: 30px;
+	margin: 0px;
+	padding: 0px;
+}
+#startpage .right li
+{
+	float: left;
+	line-height: 30px;
+	margin-left: 20px;
+	color: #009;
+}
+#startpage .right li:hover
+{
+	color: #069;
+}
+#startpage .right li a
+{
+	color: #009;
+}
+#startpage .right li a:hover
+{
+	color: #069;
+}
+#header .banner
+{
+	width: 100%;
+	height: 200px;
+	clear: both;
+	background: url(../../../images/banner/web%20banner.png) no-repeat top left;
+}
+#header .logo1
+{
+	float: left;
+	height: 150px;
+	width: 150px;
+	margin-top: 25px;
+	background: url(../../../images/banner/elearning.png) no-repeat top left;
+}
+#header .logo2
+{
+	float: right;
+	height: 150px;
+	width: 239px;
+	margin-top: 25px;
+	background:url(../../../images/banner/e-learning%20banner.png) no-repeat top left;
+}
+#header	.topmenu
+{
+	clear: both;
+	height: 48px;
+	width: 100%;
+	margin-top: 12px;
+}
+#header .topmenu .topleft
+{
+	float: left;
+	height: 48px;
+	line-height: 48px;
+	padding: 0px 10px 0px 10px;
+	margin-left: 10px;
+	border: 1px solid #ccc;
+}
+#header .topmenu .topleft a
+{
+	color: #009;
+}
+#header .topmenu .topleft a:hover
+{
+	color: #069;
+}
+#header .topmenu .topcenter
+{
+	float: left;
+	height: 48px;
+	line-height: 48px;
+	padding: 0px 10px 0px 10px;
+	margin-left: 10px;
+	border: 1px solid #ccc;
+}
+#header .topmenu .topcenter a
+{
+	color: #009;
+}
+#header .topmenu .topcenter a:hover
+{
+	color: #069;
+}
+#header .topmenu .topright
+{
+	float: right;
+	height: 48px;
+	background: url(../../../images/bg/bg_topmenu_right.gif) repeat-x top left;
+	margin-right: 10px;
+	border: 1px solid #ccc;
+}
+#header .topmenu .topright ul
+{
+	padding: 0px 10px 0px 10px;
+	margin: 0px;
+}
+#header .topmenu .topright ul li
+{
+	list-style: none;
+	line-height: 48px;
+	float: left;
+}
+#header .topmenu .topright ul li a
+{
+	color: #009;
+}
+#header .topmenu .topright ul li a:hover
+{
+	color: #069;
+}
+#header .topmenu .topright ul li.sep
+{	
+	height: 48px;
+	float: left;
+	width: 20px;
+	background: url(../../../images/bg/dot.gif) no-repeat top left;
+	background-position: 10px 23px;
+}
+#header .topmenu .topright ul li.current a
+{
+	color: #060;
+}
+#header .centermenu
+{
+	clear: both;
+	height: 30px;
+	margin-top: 12px;
+	margin-left: 10px;
+}
+#header .centermenu .label
+{
+	float: left;
+	text-align: center;
+	background: #840810;
+	color: #FFF;
+	font-weight: bold;
+	line-height: 30px;
+	padding: 0px 10px 0px 10px;
+}
+#header .centermenu .time
+{
+	float: left;
+	height: 28px;
+	line-height: 28px;
+	border: 1px solid #ccc;
+	text-align: left;
+	color: #333;
+	font-weight: bold;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding: 0px 10px 0px 10px;
+	margin-left: 10px;
+}
+#header .centermenu .search
+{
+	float: right;
+	height: 28px;
+	line-height: 28px;
+	border: 1px solid #ccc;
+	padding: 0px 10px 0px 10px;
+	margin-right: 10px;
+}
+/************************/
+#header .slideshow
+{
+	clear: both;
+	width: 1100px;
+	height: 222px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+#header .slideshow #slide
+{
+
+}
+#header .slideshow #slide
+{
+	width: 1100px;
+	height: 200px;
+	background: #FFF;
+}
+#header .slideshow #slide img
+{
+	top: 0px !important; left: 0px !important;
+}
+#header .slideshow #slide_nav
+{
+	padding-top: 2px;
+	padding-left: 1px;
+	width: 1099px;
+	height: 22px;
+	background: #FFF;
+}
+#header .slideshow #slide_nav a
+{
+	background: #FFF;
+	margin-right: 5px;
+	padding: 1px 5px;
+	text-decoration: none;
+	border: 1px solid #840810;
+	color: #840810;
+}
+#header .slideshow #slide_nav a.activeSlide
+{
+	background: #840810;
+	color: #FFF;
+}
+/************************/
+#header .bottommenu
+{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: url(../../../images/bg/bg_menu.jpg) repeat-x top left;
+	
+	margin-top: 10px;
+}
+#header .bottommenu ul
+{
+	float: left;
+	width: 210px;
+	height: 200px;
+	margin-left: 10px;
+	padding: 0px 0px 0px 0px;
+}
+#header .bottommenu ul li
+{
+	list-style: none;
+	float: left;
+	width: 210px;
+	height: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+	
+}
+#header .bottommenu ul li a
+{
+	color: #FFF;
+}
+#header .bottommenu ul li a:hover
+{
+	color: #414b56;
+}
+#header .bottommenu ul li .level1icon
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+
+	background: url(../../../images/icon/images.png) no-repeat top left;
+	margin-right: 5px;
+	margin-top: 8px;
+}
+#header .bottommenu ul li.sep
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 68px;
+	width: 1px;
+	background: url(../../../images/bg/dotnet.gif) no-repeat top left;
+}
+/*************************/
+#header .bottommenu2
+{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: url(../../../images/bg/bg_menu.jpg) repeat-x top left;
+	
+	margin-top: 10px;
+}
+#header .bottommenu2 ul
+{
+	float: left;
+	width: 210px;
+	height: 200px;
+	margin-left: 10px;
+	padding: 0px 0px 0px 0px;
+}
+#header .bottommenu2 ul li
+{
+	list-style: none;
+	float: left;
+	width: 210px;
+	height: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+#header .bottommenu2 ul li a
+{
+	color: #FFF;
+}
+#header .bottommenu2 ul li a:hover
+{
+	color: #414b56;
+}
+#header .bottommenu2 ul li .level1icon
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+
+	background: url(../../../images/icon/images.png) no-repeat top left;
+	margin-right: 5px;
+	margin-top: 8px;
+}
+#header .bottommenu2 ul li.sep
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 68px;
+	width: 1px;
+	background: url(../../../images/bg/dotnet.gif) no-repeat top left;
+}
+/******************************/
+/*************************/
+#header .bottommenu3
+{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: url(../../../images/bg/bg_menu.jpg) repeat-x top left;
+	
+	margin-top: 10px;
+}
+#header .bottommenu3 ul
+{
+	float: left;
+	width: 210px;
+	height: 200px;
+	margin-left: 10px;
+	padding: 0px 0px 0px 0px;
+}
+#header .bottommenu3 ul li
+{
+	list-style: none;
+	float: left;
+	width: 210px;
+	height: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+#header .bottommenu3 ul li a
+{
+	color: #FFF;
+}
+#header .bottommenu3 ul li a:hover
+{
+	color: #414b56;
+}
+#header .bottommenu3 ul li.sep
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 68px;
+	width: 1px;
+	background: url(../../../images/bg/dotnet.gif) no-repeat top left;
+	
+}
+#header .bottommenu3 ul li .level1icon
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+
+	background: url(../../../images/icon/images.png) no-repeat top left;
+	margin-right: 5px;
+	margin-top: 8px;
+}
+/*************************/
+#header .bottommenu4
+{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: url(../../../images/bg/bg_menu.jpg) repeat-x top left;
+	
+	margin-top: 10px;
+}
+#header .bottommenu4 ul
+{
+	float: left;
+	width: 210px;
+	height: 200px;
+	margin-left: 10px;
+	padding: 0px 0px 0px 0px;
+}
+#header .bottommenu4 ul li
+{
+	list-style: none;
+	float: left;
+	width: 210px;
+	height: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+#header .bottommenu4 ul li a
+{
+	color: #FFF;
+}
+#header .bottommenu4 ul li a:hover
+{
+	color: #414b56;
+}
+#header .bottommenu4 ul li.sep
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 68px;
+	width: 1px;
+	background: url(../../../images/bg/dotnet.gif) no-repeat top left;
+	
+}
+#header .bottommenu4 ul li .level1icon
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+
+	background: url(../../../images/icon/images.png) no-repeat top left;
+	margin-right: 5px;
+	margin-top: 8px;
+}
+/******************************/
+/*************************/
+#header .bottommenu5
+{
+	float: left;
+	width: 220px;
+	height: 200px;
+	background: url(../../../images/bg/bg_menu.jpg) repeat-x top left;
+	
+	margin-top: 10px;
+}
+#header .bottommenu5 ul
+{
+	float: left;
+	width: 210px;
+	height: 200px;
+	margin-left: 10px;
+	padding: 0px 0px 0px 0px;
+}
+#header .bottommenu5 ul li
+{
+	list-style: none;
+	float: left;
+	width: 210px;
+	height: 30px;
+	line-height: 30px;
+	text-transform: uppercase;
+}
+#header .bottommenu5 ul li a
+{
+	color: #FFF;
+}
+#header .bottommenu5 ul li a:hover
+{
+	color: #414b56;
+}
+#header .bottommenu5 ul li.sep
+{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 68px;
+	width: 1px;
+	background: url(../../../images/bg/dotnet.gif) no-repeat top left;
+	
+}
+#header .bottommenu5 ul li .level1icon
+{
+	float: left;
+	width: 14px;
+	height: 14px;
+
+	background: url(../../../images/icon/images.png) no-repeat top left;
+	margin-right: 5px;
+	margin-top: 8px;
+}
+/***********************/
+#header .navmenu
+{
+	clear: both;
+	height: 30px;
+	width: 100%;
+	background: #840810;
+	margin-top: 10px;
+}
+#header .navmenu ul
+{
+	padding: 0px;					/**Tránh có đoạn thừa**/
+	margin-left: 0px;
+}
+#header .navmenu ul li
+{
+	list-style: none;
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	background: #840810;
+	position: relative;					/**Xem lại**/
+	z-index: 111;
+	border-right: 1px solid #b8b8a7;
+	
+	display: table-cell;				/**Xem lại**/
+	vertical-align: middle;
+	padding: 0px 10px 0px 10px;
+	cursor: pointer;
+	text-align: center;
+}
+#header .navmenu ul li.current img
+{
+	padding: 5px 0px 5px 0px;
+}
+#header .navmenu ul li a
+{
+	display: block;
+	color: #FFF;
+}
+#header .navmenu ul li:hover
+{
+	height: 30px;
+	background: #bdb7b1;
+}
+#header .navmenu ul li a:hover
+{
+	color: #000;
+}
+#header .navmenu ul li:hover ul
+{
+	display: block;
+}
+/******CSS for Submenu*******/
+#header .navmenu ul li ul
+{
+	display: none;
+	position: absolute;
+}
+#header .navmenu ul li ul li
+{
+	height: 30px;
+	width: 130px;
+	margin-left: -11px;
+	border-right: none;
+	text-align: left;
+	border: 1px solid #b8b8a7;
+	border-top: none;
+}
+
+/*******Colleft*********/
+#colleft
+{
+	float: left;
+	width: 220px;
+	margin-top: 11px;
+	margin-bottom: 20px;
+}
+#colleft .heading
+{
+	clear: both;
+	height: 52px;
+	line-height: 52px;
+	width: 217px;
+	border: 1px solid #000;
+	background: url(../../../images/bg/bg_colleft_heading.gif) repeat-x top left;
+	margin-left: 1px;
+	color: #000;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+}
+#colleft .content
+{
+	clear: both;
+	width: 217px;
+	background: #d1d4d3;
+	border: 1px solid #000;
+	margin-left: 1px;
+	margin-top: 1px;
+}
+#colleft .content ul
+{
+
+	margin: 0px;
+	padding: 10px;
+}
+#colleft .content ul li
+{
+
+	list-style: none;
+	line-height: 30px;
+	padding-left: 0px;
+}
+#colleft .content ul li a
+{
+	color: #000;
+}
+#colleft .content ul li a:hover
+{
+	color: #0019a8;
+}
+#colleft .content ul li.sep
+{
+	line-height: 1px;
+	border-top: 1px dotted #333;
+}
+#colleft .content ul li.subicon
+{
+	float: left;
+	height: 7px;
+	width: 7px;
+	background: url(../../../images/icon/subicon.gif) no-repeat top left;
+	margin-top: 11px;
+	margin-right: 5px;
+}
+/**********Content***************/
+#content
+{
+	float: left;
+	margin-top: 11px;
+	
+	margin-left: 10px;
+	width: 640px;
+}
+#content .heading
+{
+	float: left;
+	height: 52px;
+	line-height: 52px;
+	width: 628px;
+	padding-left: 10px;
+	background: url(../../../images/bg/bg_colleft_heading.gif) repeat-x top left;
+	border: 1px solid #ccc;
+}
+
+#content .heading .title
+{
+	float: left;
+	color: #000;
+	font-weight: bold;
+	font-size: 13px;
+}
+#content .heading .icon_category
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: url(../../../images/icon/category.png) no-repeat top left;
+}
+#content .heading .icon_lesson
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: url(../../../images/icon/category.png) no-repeat top left;
+}
+#content .heading .icon_reading
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: url(../../../images/icon/reading.png) no-repeat top left;
+}
+#content .heading .icon_profile
+{
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background: url(../../../images/icon/124322_43327_32_profile_icon.png) no-repeat top left;
+}
+/********HEADER**************/
+#content_large
+{
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 1100px;
+}
+#content_large .heading
+{
+	float: left;
+	height: 52px;
+	line-height: 52px;
+	width: 1086px;
+	margin-top: 0px;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-left: 10px;
+	background: url(../../../images/bg/bg_colleft_heading.gif) repeat-x top left;
+	border: 1px solid #ccc;
+	font-weight: bold;
+}
+#content_large .heading .title
+{
+	float: left;
+}
+#content_large .heading .icon_userlogin
+{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 2px;
+	margin-left: 20px;
+	background: url(../../../images/icon/user-login-icon.png) no-repeat top left;
+}
+#content_large .heading .icon_category
+{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 2px;
+	margin-left: 20px;
+	background: url(../../../images/icon/120px-File-manager.png) no-repeat top left;
+}
+#content_large .heading .icon_article
+{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 6px;
+	margin-left: 20px;
+	background: url(../../../images/icon/articles_icon.png) no-repeat top left;
+}
+#content_large .heading .icon_settings
+{
+	float: left;
+	width: 48px;
+	height: 48px;
+	margin-top: 5px;
+	margin-left: 20px;
+	background: url(../../../images/icon/settings.png) no-repeat top left;
+}
+#content_large .conleft
+{
+	float: left;
+	width: 1096px;
+	background: #f3f3f3;
+	border: 1px solid #70201f;
+	border-bottom: none;
+	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+#content_large .conleft ul
+{
+	float: left;
+	width: 1076px;
+	padding: 0px 10px;
+}
+#content_large .conleft .tleft
+{
+	float: left;
+	width: 548px;
+}
+#content_large .conleft .tleft .icon_default
+{
+	float: left;
+	width: 95px;
+	height: 81px;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	padding: 10px 5px;
+	margin-left: 20px;
+
+	margin-top: 20px;
+	text-align: center;
+	vertical-align: top;
+}
+#content_large .conleft .tleft .icon_default:hover
+{
+	border: 1px solid #0019a8;
+	border-top-left-radius: 17px;
+	box-shadow: 5px 5px 5px #999;
+	color: #0019a8;
+	text-shadow: 0.1em 0.1em 0.05em #ccc;
+	cursor: pointer;
+	background: #BAD3ED;
+}
+#content_large .conleft .tleft .icon_default .name
+{
+	height: 20px;
+	line-height: 20px;
+}
+#content_large .conleft .tleft a
+{
+	color: #333;
+}
+#content_large .conleft .tright
+{
+	float: left;
+	width: 534px;
+	background: #4a4a4a;
+	border-bottom: 1px solid #000;
+	border-right: 1px solid #000;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;
+	padding: 6px;
+}
+/***************************/
+#content_large .conright
+{
+	float: left;
+	width: 1096px;
+	background: #f3f3f3;
+	border: 1px solid #70201f;
+	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+#content_large .conright a
+{
+	color: #0002A8;
+}
+#content_large .conright a:hover
+{
+	color: #0055A8;
+}
+
+#content_large .content
+{
+	float: left;
+	width: 1100px;
+	margin-top: 1px;
+}
+#content_large .content .title
+{
+	float: left;
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	background: #790000;
+	padding-left: 10px;
+	margin-left: 1px;
+}
+#content_large .content .title a
+{
+	color: #FFF;
+}
+
+#content_large .content .title .icon_addcategory
+{
+	float: right;
+	width: 32px;
+	height: 32px;
+	background: url(../../../images/icon/edit_add.png) no-repeat top left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+#content_large .content .searchcat
+{
+	float: left;
+	height: 40px;
+	
+	width: 469px;	
+	background: #790000;
+	margin-top: 0px;
+	margin-left: 1px;
+}
+#content_large .uleft
+{
+	float: left;
+	width: 1096px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	margin-top: 1px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-bottom: 0px;
+}
+#content_large .uleft ul
+{
+	padding: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+#content_large .uleft ul li
+{	
+	clear: both;
+	height: 40px;
+	line-height: 40px;
+	list-style: none;
+	color: #333;
+	padding-bottom: 0px;		/*cẩn trọng với stylesheet này*/
+}
+#content_large .uleft ul li:hover
+{
+	color: #a80000;
+}
+#content_large .uleft ul li .left
+{
+	float: left;
+	height: 20px;
+	line-height: 20px;
+}
+#content_large .uleft ul li .left a
+{	
+	height: 20px;
+	line-height: 20px;
+	color: #333;
+}
+#content_large .uleft ul li .left a:hover
+{
+	color: #a80000;
+}
+#content_large .uleft ul li .right
+{
+	float: right;
+	line-height: 20px;
+	height: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+#content_large .uleft ul li .right a
+{
+	line-height: 20px;
+	height: 20px;
+}
+#content_large .uright 
+{
+	float: left;
+	width: 1096px;
+	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-bottom: 0px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	color: #000;
+}
+
+/*****************************/
+#content .content
+{
+	float: left;
+	width: 640px;
+	margin-top: 1px;
+}
+#content .content .title
+{
+	float: left;
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	background: #790000;
+	padding-left: 10px;
+
+}
+#content .content .title a
+{
+	color: #FFF;
+}
+#content .content .title .icon_addcategory
+{
+	float: right;
+	width: 32px;
+	height: 32px;
+	background: url(../../../images/icon/edit_add.png) no-repeat top left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+#content .content .title .icon_addlesson
+{
+	float: right;
+	width: 32px;
+	height: 32px;
+	background: url(../../../images/icon/edit_add.png) no-repeat top left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+#content .content .searchcat
+{
+	float: left;
+	height: 40px;
+	
+	width: 469px;	
+	background: #790000;
+	margin-top: 0px;
+	margin-left: 1px;
+}
+#content .content .searchles
+{
+	float: left;
+	height: 40px;
+	
+	width: 469px;	
+	background: #790000;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+#content .lesdetails
+{
+	float: left;
+	width: 638px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	
+}
+#content .lesdetails ul
+{
+	padding-left: 10px;
+	padding-top: 0px;
+}
+#content .lesdetails ul li
+{
+	list-style: none;
+}
+/**********RegList************/
+#content .userleft
+{
+	float: left;
+	width: 618px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	margin-top: 1px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+#content .addcomleft
+{
+	float: left;
+	width: 622px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	margin-top: 1px;
+	margin-bottom: 20px;
+	padding: 8px;
+}
+/***********************/
+#content .uleft
+{
+	float: left;
+	width: 638px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	margin-top: 1px;
+	margin-bottom: 10px;
+}
+#content .uleft ul
+{
+	padding: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+#content .uleft ul li
+{	
+	clear: both;
+	height: 30px;
+	line-height: 20px;
+	list-style: none;
+	color: #333;
+	padding-bottom: 10px;		/*cẩn trọng với stylesheet này*/
+}
+#content .uleft ul li:hover
+{
+	color: #a80000;
+}
+#content .uleft ul li .left
+{
+	float: left;
+	height: 20px;
+	line-height: 20px;
+}
+#content .uleft ul li .left a
+{	
+	height: 20px;
+	line-height: 20px;
+	color: #333;
+}
+#content .uleft ul li .left a:hover
+{
+	color: #a80000;
+}
+#content .uleft ul li .right
+{
+	float: right;
+	line-height: 20px;
+	height: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+#content .uleft ul li .right a
+{
+	line-height: 20px;
+	height: 20px;
+}
+#content .uright 
+{
+	float: left;
+	width: 638px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background: #e2e2e2;
+	border: 1px solid #ccc;
+	color: #000;
+}
+/**************Chat iFrame***************/
+
+#content .cframe
+{
+	clear: both;
+	width: 618px;
+ 	background: #e2e2e2;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#content .cframe .chat
+{
+	clear: both;
+	width: 596px;
+	height: 618px;
+ 	background: #f3f3f3;
+	border: 1px solid #999;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	overflow: scroll;
+	padding: 10px 10px;
+}
+#content .cframe .option
+{
+	margin-bottom: 10px;
+}
+#content .message .btnsend
+{
+	vertical-align: top;
+	margin-left: 10px;
+}
+/*******ColRight************/
+#colright 
+{
+	float: left;
+	margin-top: 11px;
+	margin-left: 10px;
+	width: 220px;
+}
+#colright .heading
+{
+	clear: both;
+	height: 52px;
+	line-height: 52px;
+	width: 217px;
+	border: 1px solid #000;
+	background: url(../../../images/bg/bg_colleft_heading.gif) repeat-x top left;
+	margin-right: 1px;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+#colright .heading .title
+{
+	color: #810c15;
+	font-size: 13px;
+}
+#colright .comment
+{
+	clear: both;
+	width: 217px;
+	margin-right: 1px;
+	margin-top: 1px; 
+}
+#colright .comment .title
+{
+	height: 40px;
+	line-height: 40px;
+	width: 217px;
+	border: 1px solid #790000;
+	background: #790000;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+#colright .comment .content
+{
+	width: 217px;
+	border: 1px solid #790000;
+	
+}
+#colright .comment .content ul
+{
+	margin-top: 10px;
+	padding-top: 0px;
+	padding-left: 30px;
+}
+#colright .comment .content ul li
+{	
+	list-style: lower-greek;
+	color: #a80000;
+	font-weight: bold;
+	clear: both;
+	line-height: 20px;
+}
+#colright .comment .content ul li:hover
+{	
+	color: #000;
+}
+#colright .comment .content ul li a
+{
+	color: #a80000;
+}
+#colright .comment .content ul li a:hover
+{
+	color: #000;
+}
+/***********re_online********************/
+#colright .note
+{
+	clear: both;
+	width: 217px;
+	margin-right: 1px;
+	margin-top: 1px; 
+}
+#colright .note .title
+{
+	height: 40px;
+	line-height: 40px;
+	width: 217px;
+	border: 1px solid #790000;
+	background: #790000;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+#colright .note .content
+{
+	width: 217px;
+	border: 1px solid #790000;
+	
+}
+#colright .note .content ul
+{
+	margin-top: 10px;
+	padding-top: 0px;
+	padding-left: 30px;
+}
+#colright .note .content ul li
+{	
+	list-style: lower-greek;
+	color: #a80000;
+	font-weight: bold;
+	clear: both;
+	line-height: 20px;
+}
+#colright .note .content ul li:hover
+{	
+	color: #000;
+}
+#colright .note .content ul li a
+{
+	color: #a80000;
+}
+#colright .note .content ul li a:hover
+{
+	color: #000;
+}
+
+/********DateTimePicker**************/
+#colright .date_pick
+{
+	clear: both;
+	width: 207px;
+	margin-right: 1px;
+	margin-top: 1px; 
+	padding-left: 10px;
+	border: 1px solid #790000;
+	color: #a80000;
+	
+}
+#colright .calendar
+{
+	clear: both;
+	width: 177px;
+	margin-right: 1px;
+	margin-top: 1px; 
+	padding: 1px 20px 1px 20px;
+	border: 1px solid #790000;
+	color: #a80000;
+}
+/**************************************/
+#colright .re_online
+{
+	clear: both;
+	width: 217px;
+	margin-right: 1px;
+	margin-top: 1px; 
+}
+#colright .re_online .title
+{
+	height: 40px;
+	line-height: 40px;
+	width: 217px;
+	border: 1px solid #790000;
+	background: #790000;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+}
+#colright .re_online .content
+{
+	width: 217px;
+	border: 1px solid #790000;
+	
+}
+#colright .re_online .content ul
+{
+	margin-top: 10px;
+	padding-top: 0px;
+	padding-left: 30px;
+}
+#colright .re_online .content ul li
+{	
+	list-style: lower-greek;
+	color: #a80000;
+	font-weight: bold;
+	clear: both;
+	line-height: 20px;
+}
+#colright .re_online .content ul li:hover
+{	
+	color: #000;
+}
+#colright .re_online .content ul li a
+{
+	color: #a80000;
+}
+#colright .re_online .content ul li a:hover
+{
+	color: #000;
+}
+
+
+
+
+
+
+
+
+
+/*********FOOTER**************/
+#footer
+{
+	clear: both;
+	height: 180px;
+	padding: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: #d1d4d3;
+		
+}
+#footer .left
+{
+	float: left;
+}
+#footer .left .copyright
+{
+	clear: both;
+	color: #000;	
+}
+#footer .right
+{
+	float: right;
+	background: url(../../../images/icon/logo_HOU.png) no-repeat top left;
+	width: 100px;
+	height: 100px;	
+}
